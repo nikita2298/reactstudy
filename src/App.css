@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+a.active_class {
+  color: blue;
+}
+.menu_style {
+  width: 100%;
+  line-height: 60px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: space-around;
+}
